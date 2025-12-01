@@ -1,0 +1,3 @@
+[submodule "LIMS"]
+	path = LIMS
+	url = https://github.com/LupusLudit/LIMS.git
