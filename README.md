@@ -6,10 +6,7 @@ This repository serves as a **portfolio container** for my individual projects. 
 
 ## Purpose
 
-The purpose of this repository is to:
-
-- Provide a single point of access for all my projects.
-- Allow teachers to review each project individually through its respective repository.
+The purpose of this repository is to provide a single point of access for all my portfolio projects.
 
 ## Projects
 
