@@ -1,3 +1,6 @@
 [submodule "LIMS"]
 	path = LIMS
 	url = https://github.com/LupusLudit/LIMS.git
+[submodule "BookOrg-D1"]
+	path = BookOrg-D1
+	url = https://github.com/LupusLudit/BookOrg-D1.git
