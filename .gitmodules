@@ -4,3 +4,6 @@
 [submodule "BookOrg-D1"]
 	path = BookOrg-D1
 	url = https://github.com/LupusLudit/BookOrg-D1.git
+[submodule "BMBank"]
+	path = BMBank
+	url = https://github.com/LupusLudit/BMBank.git
