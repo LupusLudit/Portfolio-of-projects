@@ -4,9 +4,6 @@
 
 This repository serves as a **portfolio container** for my individual projects. It does **not contain any standalone code** itself, but instead organizes the projects as **submodules**. Each submodule points to a separate Git repository where the actual project code is stored.
 
-Current project: [BMBank](https://github.com/LupusLudit/BMBank)
-(The link to the subrepo is not currently updated, use the link provided)
-
 ## Purpose
 
 The purpose of this repository is to provide a single point of access for all my portfolio projects.
