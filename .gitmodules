@@ -7,3 +7,6 @@
 [submodule "BMBank"]
 	path = BMBank
 	url = https://github.com/LupusLudit/BMBank.git
+[submodule "PhotoSort"]
+	path = PhotoSort
+	url = https://github.com/LupusLudit/PhotoSort.git
